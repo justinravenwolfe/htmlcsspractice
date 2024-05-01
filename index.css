@@ -1,0 +1,19 @@
+.dogpics{
+  width:50%;
+  height:50%;
+
+}
+.links li{
+
+
+  display:inline-block;
+  
+  
+}
+.links li:hover{
+
+
+ color:pink !important;
+  
+  
+}
