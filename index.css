@@ -1,5 +1,5 @@
 .dogpics{
-  width:50%;
+  width: 30%;
   height:50%;
 
 }
@@ -17,3 +17,18 @@
   
   
 }
+container {
+  display: flex;
+  flex-direction:row;
+  
+
+
+}
+.tile{
+  text-align: center;
+  
+
+}
+.tile:hover{
+  background-color:pink;
+} 
