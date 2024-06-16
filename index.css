@@ -32,3 +32,7 @@ container {
 .tile:hover{
   background-color:pink;
 } 
+#slide-image{
+  height:45%;
+  width:45%;
+}
